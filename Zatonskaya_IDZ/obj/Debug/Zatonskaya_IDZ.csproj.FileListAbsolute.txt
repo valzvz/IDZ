@@ -1,0 +1,10 @@
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\bin\Debug\Zatonskaya_IDZ.exe.config
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\bin\Debug\Zatonskaya_IDZ.exe
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\bin\Debug\Zatonskaya_IDZ.pdb
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\obj\Debug\Zatonskaya_IDZ.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\obj\Debug\Zatonskaya_IDZ.Form1.resources
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\obj\Debug\Zatonskaya_IDZ.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\obj\Debug\Zatonskaya_IDZ.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\obj\Debug\Zatonskaya_IDZ.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\obj\Debug\Zatonskaya_IDZ.exe
+C:\Users\lenovo\OneDrive\Рабочий стол\Zatonskaya_IDZ\Zatonskaya_IDZ\obj\Debug\Zatonskaya_IDZ.pdb
